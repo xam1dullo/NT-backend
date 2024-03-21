@@ -4,8 +4,7 @@ import blog, { ga, redirects } from "blog";
 blog({
   title: "Ninja Coder!",
   description: "This is Ninja's new blog!",
-  avatar:
-    "https://lh3.googleusercontent.com/a/AGNmyxZkp09uhx6t8_Jgyhipf5c6duzz_m5zUkWs8RiHgg=s288",
+  avatar: "https://dash.deno.com/assets/logo.svg",
   avatarClass: "rounded-full",
   author: "Xamidullo Xudoyberdiyev",
   links: [
